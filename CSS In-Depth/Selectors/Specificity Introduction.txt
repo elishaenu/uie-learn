@@ -1,0 +1,6 @@
+most specificity -> least specificity :
+style atribute inline
+1-0-0 : id selector
+0-1-0 : class selector
+0-0-1 : element selector
+0-0-0 : selector / global selector tidak punya value
